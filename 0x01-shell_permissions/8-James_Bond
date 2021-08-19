@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod -rwx
-chmod g-rwx
+chmod -rwx g-rwx o-rwx
