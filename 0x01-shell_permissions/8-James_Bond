@@ -1,2 +1,4 @@
 #!/bin/bash
-chmod  u=rwx,g=0,root=0 home
+chmod -rwx
+chmod g-rwx
+chmod o-rwx
