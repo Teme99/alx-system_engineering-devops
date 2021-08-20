@@ -1,1 +1,2 @@
-#!/bin/bashcp -rua *.html ../
+#!/bin/bash
+#cp -rua *.html ../
